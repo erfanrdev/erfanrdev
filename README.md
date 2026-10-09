@@ -19,6 +19,4 @@ I enjoy understanding the logic behind applications, designing workflows, and ex
 ### Projects
 - [axios-api-practice](https://github.com/bingoLost/axios-api-practice) — A practice project for learning API requests with Axios.
 
-### Connect
-- [LinkedIn](https://www.linkedin.com/in/erfanrdev/)
-- [Telegram](https://t.me/erfanrdev)
+
