@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**erfanrdev/erfanrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Erfan 👋
 
-Here are some ideas to get you started:
+I'm a backend development learner focused on JavaScript and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding the logic behind applications, designing workflows, and exploring how different parts of a backend system work together.
+
+### Currently Learning
+- JavaScript and Node.js
+- Express.js and REST APIs
+- MongoDB and SQL databases
+- Git and GitHub
+
+### Interests
+- Backend application logic and workflows
+- Database design
+- Web security
+
+### Projects
+- [axios-api-practice](https://github.com/bingoLost/axios-api-practice) — A practice project for learning API requests with Axios.
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/erfanrdev/)
+- [Telegram](https://t.me/erfanrdev)
