@@ -1,7 +1,11 @@
 
 # Hi, I'm Erfan 👋
 <p align="center">
-  <img src="./git.webp" width="800" alt="Coding animation">
+  <img
+    src="./git.webp"
+    alt="Coding animation"
+    style="width: 100vw; max-width: 100%; display: inline-block;"
+  >
 </p>
 
 👨‍💻 I'm a backend development learner focused on JavaScript and Node.js.
