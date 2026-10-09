@@ -1,5 +1,8 @@
 
 # Hi, I'm Erfan 👋
+<p align="center">
+  <img src="./git.webp" width="500" alt="Coding animation">
+</p>
 
 I'm a backend development learner focused on JavaScript and Node.js.
 
