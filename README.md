@@ -4,22 +4,23 @@
   <img src="./git.webp" width="800" alt="Coding animation">
 </p>
 
-I'm a backend development learner focused on JavaScript and Node.js.
+👨‍💻 I'm a backend development learner focused on JavaScript and Node.js.
 
-I enjoy understanding the logic behind applications, designing workflows, and exploring how different parts of a backend system work together.
+🧠 I enjoy understanding the logic behind applications, designing workflows, and exploring how different parts of a backend system work together.
 
-### Currently Learning
-- JavaScript and Node.js
-- Express.js and REST APIs
-- MongoDB and SQL databases
-- Git and GitHub
+### 📚 Currently Learning
 
-### Interests
-- Backend application logic and workflows
-- Database design
-- Web security
+- 🟨 JavaScript and Node.js
+- 🚂 Express.js and REST APIs
+- 🍃 MongoDB and SQL databases
+- 🐙 Git and GitHub
 
-### Projects
-- [axios-api-practice](https://github.com/bingoLost/axios-api-practice) — A practice project for learning API requests with Axios.
+### 💡 Interests
 
+- ⚙️ Backend application logic and workflows
+- 🗄️ Database design
+- 🔐 Web security
 
+### 🚀 Projects
+
+- 📡 [axios-api-practice](https://github.com/bingoLost/axios-api-practice) — A practice project for learning API requests with Axios.
