@@ -25,6 +25,3 @@
 - 🗄️ Database design
 - 🔐 Web security
 
-### 🚀 Projects
-
-- 📡 [axios-api-practice](https://github.com/bingoLost/axios-api-practice) — A practice project for learning API requests with Axios.
